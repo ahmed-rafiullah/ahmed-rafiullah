@@ -27,10 +27,15 @@ Heres some of my stats
 
 You can catch me at
 
- <a href="https://dev.to/ahmedrafiullahk">
- <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ahmed Rafiullah's DEV Profile" height="30" width="30">
- </a>     
+<a href="https://dev.to/ahmedrafiullahk">
+ <img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ahmed Rafiullah's DEV Profile" height="30" width="30">
+</a>     
 
+<a href="https://www.linkedin.com/in/ahmedkhattak/">
+   <img align="left" alt="Ahmed's LinkdeIN" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<br/>
 
 Check out my repos ⬇️  
 
