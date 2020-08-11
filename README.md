@@ -1,4 +1,4 @@
-### Hello there 👋 
+### Asalamualaikum 👋 
 I'm Ahmed a frontend and mobile developer. I write about my learnings in my blog. And in general love web dev.
 Current im looking to get hired as a front end dev. If you know any places looking to hire tell em about me or vice versa.
 Thank you !.
