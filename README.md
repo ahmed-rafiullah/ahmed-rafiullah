@@ -1,7 +1,6 @@
 ### Asalamualaikum 👋 
 I'm Ahmed a frontend and mobile developer. I write about my learnings in my blog. And in general love web dev.
-Current im looking to get hired as a front end dev. If you know any places looking to hire tell em about me or vice versa.
-Thank you !.
+Currently im working as a React | React Native Developer at Funavry Technologies.
 
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 
@@ -12,13 +11,13 @@ Thank you !.
 
 
 #### learning/trying
-Currently learning GraphQL. After which ill try different clients and stick with one. Then probably learn rust maybe.
+- Going through the graphQl specs.
+- Learning Vue
 
 
 
 #### projects and hacks
-Currently working on replicating scrimbas user interface. Really interesting to see how it will work in the end. I do have some ideas on how to make it work. Just gotta translate that to actual code.
-
+Making a low fidelity replica of [Scrimba](https://scrimba.com/) user interface. Really interesting to see how it will work in the end. I do have some ideas on how to make it work. Just gotta translate that to actual code. 
 
 
 Heres some of my stats 
