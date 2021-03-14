@@ -36,6 +36,8 @@ You can catch me at
 
 <br/>
 
+<img src="https://www.codewars.com/users/AhmedKhattak/badges/large"/>
+
 Check out my repos ⬇️  
 
 
