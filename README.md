@@ -26,15 +26,15 @@ Heres some of my stats
 
 You can catch me at
 
-<a href="https://dev.to/ahmedrafiullahk">
+<a href="https://dev.to/ahmedrafiullahk" target="_blank">
  <img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ahmed Rafiullah's DEV Profile" height="30" width="30">
 </a>     
 
-<a href="https://www.linkedin.com/in/ahmedkhattak/">
+<a href="https://www.linkedin.com/in/ahmedkhattak/"  target="_blank">
    <img align="left" alt="Ahmed's LinkdeIN" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.codewars.com/users/AhmedKhattak"><img src="https://www.codewars.com/users/AhmedKhattak/badges/micro"/></a>
+<a href="https://www.codewars.com/users/AhmedKhattak"  target="_blank"><img src="https://www.codewars.com/users/AhmedKhattak/badges/micro"/></a>
 
 <br/>
 Check out my repos ⬇️  
