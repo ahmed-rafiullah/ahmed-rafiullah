@@ -34,10 +34,9 @@ You can catch me at
    <img align="left" alt="Ahmed's LinkdeIN" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<a href="https://www.codewars.com/users/AhmedKhattak"><img src="https://www.codewars.com/users/AhmedKhattak/badges/micro"/></a>
+
 <br/>
-
-<img src="https://www.codewars.com/users/AhmedKhattak/badges/large"/>
-
 Check out my repos ⬇️  
 
 
