@@ -1,6 +1,6 @@
 ### Asalamualaikum 👋 
 I'm Ahmed a frontend and mobile developer. I write about my learnings in my blog. And in general love web dev.
-Currently im working as a React | React Native Developer at [Funavry Technologies](https://www.funavry.com/).
+Currently im working as a React Frontend Engineer at [Remotebase](https://www.remotebase.com/).
 
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 
