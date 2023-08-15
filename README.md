@@ -34,6 +34,10 @@ You can catch me at
    <img align="left" alt="Ahmed's LinkdeIN" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+
+![](https://komarev.com/ghpvc/?username=ahmed-rafiullah)
+
+
 <a href="https://www.codewars.com/users/AhmedKhattak"  target="_blank"><img src="https://www.codewars.com/users/AhmedKhattak/badges/micro"/></a>
 
 <br/>
