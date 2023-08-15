@@ -22,7 +22,7 @@ Making a low fidelity replica of [Scrimba](https://scrimba.com/) user interface.
 
 Heres some of my stats 
 
-[![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=AhmedKhattak)](https://github.com/AhmedKhattak/github-readme-stats)
+[![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=AhmedKhattak)](https://github.com/ahmed-rafiullah/github-readme-stats)
 
 You can catch me at
 
